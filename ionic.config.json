@@ -1,0 +1,7 @@
+{
+  "name": "uxui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
